@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6026890A-0B46-4CDE-B27E-ABDF9824BC72"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AFCE0426-BE7B-4DDA-8569-F8076F526C56"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/GithubProfiles/Core/GitProfilesRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "didTapUser(userUrl:store:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E6328E3E-2CFE-453E-8B23-A702FED3DB96"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/GithubProfiles/Cells/ErrorNotHaveData.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "configure(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6DA3106-B01A-4E26-8BC8-3E51D92C93FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/GithubProfiles/Core/GitProfilesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "fetchUsersFailed(failType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6DA3106-B01A-4E26-8BC8-3E51D92C93FC - 47169d10f8aadeab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitProfiles.GitProfilesPresenterImpl.fetchUsersFailed(failType: GitProfiles.ErrorType) -&gt; ()"
+                  moduleName = "GitProfiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natoegnatashvili/Desktop/git%20proj/GithubProfile/GitProfiles/GitProfiles/GithubProfiles/Core/GitProfilesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "955">
+               </Location>
+               <Location
+                  uuid = "B6DA3106-B01A-4E26-8BC8-3E51D92C93FC - ab9f19c9ed9d2d96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in GitProfiles.GitProfilesPresenterImpl.fetchUsersFailed(failType: GitProfiles.ErrorType) -&gt; ()"
+                  moduleName = "GitProfiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natoegnatashvili/Desktop/git%20proj/GithubProfile/GitProfiles/GitProfiles/GithubProfiles/Core/GitProfilesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BEB178A7-9A42-47AC-A316-D517A179B82C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/GithubProfiles/Core/GitProfilesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "fetchUsersFailed(failType:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BEB178A7-9A42-47AC-A316-D517A179B82C - 47169d10f8aadd95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GitProfiles.GitProfilesPresenterImpl.fetchUsersFailed(failType: GitProfiles.ErrorType) -&gt; ()"
+                  moduleName = "GitProfiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natoegnatashvili/Desktop/git%20proj/GithubProfile/GitProfiles/GitProfiles/GithubProfiles/Core/GitProfilesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "413">
+               </Location>
+               <Location
+                  uuid = "BEB178A7-9A42-47AC-A316-D517A179B82C - 43289ae26b4e54eb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in GitProfiles.GitProfilesPresenterImpl.fetchUsersFailed(failType: GitProfiles.ErrorType) -&gt; ()"
+                  moduleName = "GitProfiles"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/natoegnatashvili/Desktop/git%20proj/GithubProfile/GitProfiles/GitProfiles/GithubProfiles/Core/GitProfilesPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1B300A0-5BB7-4934-9962-D91DE9A937EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/GithubProfiles/Core/GitProfilesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "108"
+            endingLineNumber = "108"
+            landmarkName = "fetchUsers()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8CF8794A-DD02-4A26-9674-887BD4E9917D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/ServiceCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "168"
+            endingLineNumber = "168"
+            landmarkName = "get(_:withCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "787AA7CE-4470-4F4E-BA44-C4367DA03B02"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/ServiceCall.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "get(_:withCompletion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3C713A9A-D0A0-495F-9906-3CFA7460DD81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GitProfiles/GithubProfiles/Core/GitProfilesController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "searchBar(_:textDidChange:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
